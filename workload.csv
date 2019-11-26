@@ -1,0 +1,11 @@
+submitTime,jid,tid,user,schedulingClass,priority,runtime,endTime,cpuReq,memReq,userClass,slo,controller,replicaOrparalelism,completions,qosMeasuring,nodePort
+0,106664144,0,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,15,-1,0.3125,0.07056,free,0.5,deployment,1,0,independent,30000
+0,106664144,1,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,2,-1,0.3125,0.07056,free,0.5,deployment,2,0,concurrent,30001
+1,109341524,0,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,5,-1,0.3125,0.05426,free,0.5,deployment,1,0,time_aggregated,30002
+2,109341524,1,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,2,-1,0.3125,0.05426,free,0.5,job,2,6,task_aggregated,30003
+5,109344935,0,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,10,-1,0.3125,0.04559,free,0.5,job,1,3,task_aggregated,30004
+5,109344935,1,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,10,-1,0.33125,0.04559,free,0.5,job,3,6,task_aggregated,30005
+8,1128637731,0,TkAqogsbyFyfWiZVCYjlysUpIwOGPGjn7b8JXQLs0BQ=,2,10,1,-1,0.33125,0.02081,free,0.5,deployment,1,0,independent,30006
+15,124371644,0,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,2,-1,0.33125,0.03717,free,0.5,deployment,1,0,independent,30007
+16,124371644,1,70s3v5qRyCO/1PCdI6fVXnrW8FU/w+5CKRSa72xgcIo=,3,9,3,-1,0.33125,0.03717,free,0.5,deployment,1,0,independent,30008
+
